@@ -123,6 +123,14 @@
     <ClCompile Include="hanoi.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="study1.c" />
+    <ClCompile Include="study2.c" />
+    <ClCompile Include="study3.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="study1.h" />
+    <ClInclude Include="study2.h" />
+    <ClInclude Include="study3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

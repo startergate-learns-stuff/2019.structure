@@ -21,5 +21,25 @@
     <ClCompile Include="04221.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="study1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="study2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="study3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="study1.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="study2.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="study3.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
